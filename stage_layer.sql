@@ -28,3 +28,4 @@ CREATE OR REPLACE TABLE flight_to_2026.stg_passengers AS (
   FROM `flight_to_2026.passengers`
   WHERE Booking_ID IS NOT NULL
   QUALIFY ROW_NUMBER() OVER(PARTITION BY UPPER(TRIM(Booking_ID)) ORDER BY Flight_ID) = 1
+);
