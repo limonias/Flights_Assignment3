@@ -1,0 +1,1001 @@
+Airline_Code,Airline_Name,Country,Is_Low_Cost_Carrier_Str
+JM,Stone-Greer Airlines,Maldives,True
+JB,Kennedy LLC Airlines,Qatar,True
+GT,Johnson Ltd Airlines,Pakistan,True
+XU,Jacobson-Mcdaniel Airlines,Tokelau,False
+ZX,Briggs LLC Airlines,Brunei Darussalam,False
+II,Powers-Edwards Airlines,Colombia,False
+RL,"Harris, West and Powell Airlines",Iceland,True
+KW,Thornton PLC Airlines,Puerto Rico,False
+BT,"Cox, Smith and Patton Airlines",Belize,True
+VQ,Cervantes Ltd Airlines,Namibia,True
+AU,"Montgomery, Smith and Jones Airlines",Palau,False
+EN,Lambert-Davies Airlines,Sierra Leone,False
+AG,"Fry, Sutton and Taylor Airlines",France,False
+MG,"Malone, Parker and Stark Airlines",Finland,True
+GF,Martinez-Flores Airlines,Solomon Islands,True
+HU,Chandler Inc Airlines,Kuwait,False
+CJ,Clark-Jefferson Airlines,Turkey,False
+AN,Schroeder-Carpenter Airlines,Uzbekistan,False
+NA,Robinson Inc Airlines,Moldova,False
+XS,"Harper, Lopez and Morse Airlines",Denmark,True
+HB,Mathis Ltd Airlines,Lao People's Democratic Republic,True
+FF,Scott-Chapman Airlines,Zimbabwe,True
+NC,"Contreras, Thompson and Lowery Airlines",Antigua and Barbuda,True
+XN,Mcconnell Group Airlines,Peru,True
+PD,Walker-Davis Airlines,Antigua and Barbuda,True
+MS,Travis-Watts Airlines,Sudan,False
+XO,Gutierrez LLC Airlines,Belgium,False
+MH,Tran-Daniels Airlines,Belarus,False
+CE,Robertson and Sons Airlines,Poland,False
+AR,"Smith, Mccullough and Garcia Airlines",Cameroon,True
+XNO,Davis LLC Airlines,Cape Verde,False
+GQ,"Snow, Mcdonald and Perry Airlines",Russian Federation,True
+TV,Dean LLC Airlines,Germany,True
+LD,"Rowe, Jenkins and Hernandez Airlines",Russian Federation,True
+RQ,Mitchell PLC Airlines,Wallis and Futuna,False
+ZL,Fernandez-Castillo Airlines,Namibia,False
+ZC,"Hartman, Reynolds and Morton Airlines",Haiti,False
+BM,"Colon, Brown and Gross Airlines",Ireland,False
+VA,Anderson-Beard Airlines,Holy See (Vatican City State),True
+DO,"Brewer, Reed and Hughes Airlines",Bahamas,False
+QI,"Shepard, Pham and Romero Airlines",Papua New Guinea,True
+GV,Velasquez PLC Airlines,India,False
+YE,"Golden, Ortiz and Chavez Airlines",Martinique,False
+XA,Norton-Mays Airlines,Papua New Guinea,True
+EW,"Pineda, Jacobs and Lowe Airlines",Guam,True
+VAJ,"Nunez, Campbell and Anderson Airlines",Luxembourg,False
+DV,Beard PLC Airlines,Niger,True
+GS,Long Inc Airlines,United States of America,True
+WS,"Bell, Smith and Cruz Airlines",Antarctica (the territory South of 60 deg S),False
+ZU,Ponce-Boyd Airlines,Samoa,False
+XX,Salas-Newman Airlines,Sao Tome and Principe,False
+PC,"Bowman, West and Taylor Airlines",China,False
+BN,Payne and Sons Airlines,Benin,True
+PL,Lopez PLC Airlines,Canada,False
+MM,Parker-Brown Airlines,Bhutan,False
+YS,Williams-Paul Airlines,Uruguay,True
+SD,Palmer Group Airlines,Armenia,False
+FL,"Barber, Williams and Roberts Airlines",Serbia,True
+TX,Taylor LLC Airlines,Peru,True
+LZ,Koch Ltd Airlines,Angola,False
+EP,Williams Ltd Airlines,Latvia,False
+WY,Myers-Thompson Airlines,Mayotte,True
+UB,"Peterson, House and Martinez Airlines",Guinea,False
+XJ,"Olson, Todd and Brown Airlines",Western Sahara,True
+UK,"Davenport, Mccann and Gillespie Airlines",Japan,True
+JC,Freeman-Blackwell Airlines,South Georgia and the South Sandwich Islands,True
+DB,Wilson-Martinez Airlines,Morocco,True
+RV,"Simpson, Gonzalez and Carr Airlines",Netherlands,False
+XB,Tucker PLC Airlines,Jersey,True
+CM,Durham LLC Airlines,Congo,False
+NO,Baldwin-Hoffman Airlines,Bouvet Island (Bouvetoya),False
+SPL,"Williamson, Booker and Williamson Airlines",Malaysia,True
+FX,"Owen, Bowman and Snyder Airlines",Somalia,False
+RY,Roberts-Brown Airlines,Belarus,False
+NR,"Mack, Barrett and King Airlines",Liberia,True
+ZY,"Ochoa, Rowe and Norris Airlines",United States of America,False
+BO,"Brown, Johnson and Hammond Airlines",Burundi,False
+YJ,Salazar-Berg Airlines,Oman,False
+AX,Blair-Clark Airlines,Solomon Islands,True
+VG,Johnson-Day Airlines,Albania,True
+BTV,"Morris, Liu and Hooper Airlines",Suriname,False
+ZD,"Alvarez, Meyer and Lopez Airlines",Nauru,True
+SH,Gutierrez and Sons Airlines,Malaysia,True
+AD,Harrington Inc Airlines,Bosnia and Herzegovina,False
+KCU,"Hughes, Perkins and Lee Airlines",Sierra Leone,False
+CF,Harris-Fry Airlines,Egypt,True
+GL,Norton Group Airlines,Togo,True
+QX,Parks Inc Airlines,Congo,True
+RC,Pierce Ltd Airlines,Antarctica (the territory South of 60 deg S),False
+AY,Johnson Inc Airlines,Latvia,True
+JGD,"Clay, Smith and Bowen Airlines",Palau,False
+ZJE,"Poole, Allen and Mullins Airlines",Italy,False
+AWV,Moyer-Johnson Airlines,Cote d'Ivoire,True
+SW,"Walker, Wiggins and Tran Airlines",Ethiopia,False
+TD,Vazquez Inc Airlines,Cocos (Keeling) Islands,True
+WZ,Moore-Carney Airlines,Bolivia,True
+GY,Gordon-Young Airlines,Egypt,False
+PR,"Rogers, Hatfield and Chaney Airlines",Slovenia,False
+UJN,"Berger, Ford and Miller Airlines",Palau,False
+VF,Beltran Inc Airlines,Antarctica (the territory South of 60 deg S),False
+ART,Rodriguez LLC Airlines,Ecuador,True
+YR,"Kemp, Mcdowell and Aguilar Airlines",Rwanda,False
+RP,"Stevens, Humphrey and Wilson Airlines",Brazil,True
+FB,Ashley-Kirby Airlines,Fiji,True
+VB,"Potter, Roman and Mccarthy Airlines",Oman,False
+JZZ,"Graham, Vaughan and Lewis Airlines",Nicaragua,True
+XF,Guerrero Group Airlines,Hungary,False
+BH,"Olson, Smith and Smith Airlines",Austria,False
+BXV,"Scott, Crawford and Craig Airlines",Italy,True
+WG,"Williams, Cox and Brown Airlines",Reunion,False
+JV,"Garcia, Tucker and Bradley Airlines",Algeria,True
+IZ,Price-Allen Airlines,Albania,False
+UM,"Hall, Frazier and Taylor Airlines",Uzbekistan,True
+IC,Mccormick-Leon Airlines,Liberia,False
+WM,"Brooks, Mcdonald and Yang Airlines",India,False
+HIK,"King, Dennis and Lucas Airlines",Jersey,False
+XGO,"Taylor, Bennett and Powers Airlines",Aruba,False
+OZ,Young PLC Airlines,Kenya,True
+PP,"Peterson, Lucas and Duncan Airlines",Reunion,True
+LH,Carter LLC Airlines,United Arab Emirates,False
+CNX,"Blair, Walters and Obrien Airlines",Philippines,True
+EE,Davenport Group Airlines,Libyan Arab Jamahiriya,True
+MV,King-Watson Airlines,Norfolk Island,False
+RD,"Clark, Richardson and Calderon Airlines",Christmas Island,False
+VY,Turner-Mora Airlines,Mali,True
+TY,Pham Ltd Airlines,Faroe Islands,True
+HM,Thompson PLC Airlines,Tonga,True
+PQ,"Stevens, Barker and Thompson Airlines",Belgium,False
+MXF,"Brown, Le and Strickland Airlines",Singapore,True
+NI,"Cameron, Wheeler and Flynn Airlines",Bulgaria,True
+EZ,Wilson-Walter Airlines,Niue,False
+JX,Rich-Vaughn Airlines,Eritrea,False
+KJ,"Morales, Butler and Wolfe Airlines",Tajikistan,True
+JA,Cortez-Acevedo Airlines,Peru,True
+SPJ,"Patterson, Simon and Stephens Airlines",Bolivia,True
+TK,Sparks and Sons Airlines,Vietnam,True
+XI,"Sanchez, Sweeney and Singh Airlines",Madagascar,False
+NY,Gibbs-Hood Airlines,Belgium,True
+ZI,"Powell, Higgins and Carter Airlines",Jamaica,True
+JI,Waller-Barrera Airlines,Norfolk Island,True
+QG,Lambert-Russell Airlines,Jamaica,False
+NM,Lane-Williams Airlines,Uganda,False
+EQ,Forbes-Fox Airlines,Singapore,True
+TP,Lewis-Caldwell Airlines,Chile,True
+PND,"Harris, Johnson and Silva Airlines",Yemen,False
+HN,"Robinson, Day and Jacobson Airlines",Grenada,True
+GHO,Moore-Reyes Airlines,Jamaica,True
+HJ,Mcconnell and Sons Airlines,Falkland Islands (Malvinas),False
+LP,Smith-Day Airlines,Suriname,False
+YYF,"Glover, Sullivan and Mcintosh Airlines",Canada,False
+LKL,Carpenter PLC Airlines,Peru,False
+FBN,Sims-Hebert Airlines,Georgia,False
+EV,Schmidt Inc Airlines,Bosnia and Herzegovina,False
+AZ,Romero-Marsh Airlines,French Guiana,True
+DU,"Thomas, Hodges and Harris Airlines",Comoros,False
+GU,Jones-Spencer Airlines,French Polynesia,True
+BDM,Mcdonald and Sons Airlines,Aruba,False
+SG,"Stewart, Thompson and Marquez Airlines",Micronesia,False
+EB,"Smith, Lewis and Meyer Airlines",Bahamas,True
+VE,Decker LLC Airlines,Djibouti,False
+OK,Reese-Williams Airlines,South Africa,False
+PSK,"Barrett, Sherman and Ball Airlines",Congo,True
+TO,"Mckay, Murphy and Nielsen Airlines",Anguilla,False
+TE,Collins-Bishop Airlines,Sweden,False
+CD,"Richards, Wright and Hernandez Airlines",Belgium,False
+NU,Sharp-Carter Airlines,Congo,True
+LU,Garza-Gonzales Airlines,San Marino,False
+MC,Lee Inc Airlines,Afghanistan,False
+XCW,"Reid, Jones and Morales Airlines",Congo,False
+RM,Winters-Young Airlines,Trinidad and Tobago,False
+QK,"Baird, Webster and Juarez Airlines",Spain,True
+ET,Adams Ltd Airlines,Sierra Leone,True
+AJ,Martinez-Schneider Airlines,Finland,True
+BA,"Johnson, Dixon and Randall Airlines",Burundi,True
+SB,West PLC Airlines,Heard Island and McDonald Islands,True
+NYC,"Cox, Tyler and Adams Airlines",Pitcairn Islands,False
+VH,Potts-Gonzalez Airlines,Mayotte,True
+KVN,"Vaughn, Norris and Williams Airlines",Maldives,False
+SA,Miller PLC Airlines,Belgium,True
+KYF,Brown-Houston Airlines,Fiji,False
+YY,"Lee, Palmer and Khan Airlines",India,True
+DX,"King, Oneal and Mckinney Airlines",Dominica,True
+UGX,"Lee, Lee and Hanson Airlines",Jamaica,False
+WRB,Hernandez-Costa Airlines,Cuba,False
+DH,"Perez, Brown and Day Airlines",New Caledonia,False
+TM,Hall Ltd Airlines,Swaziland,False
+EK,Mccormick PLC Airlines,Burundi,False
+UR,"Martinez, Blake and Myers Airlines",Zambia,True
+MMN,Krueger Ltd Airlines,Korea,True
+QH,Miller-Serrano Airlines,Cook Islands,True
+EJ,Davis PLC Airlines,Spain,False
+DT,Graham and Sons Airlines,Somalia,True
+RB,"Mcdonald, Wade and Lee Airlines",Korea,False
+TIF,Salazar Inc Airlines,Malaysia,False
+HT,"Johnson, Serrano and Livingston Airlines",Korea,True
+ING,Smith Group Airlines,Cote d'Ivoire,False
+NZU,Cooper and Sons Airlines,Poland,True
+GN,"Davis, Baker and Mayo Airlines",American Samoa,True
+LL,Fox Ltd Airlines,Costa Rica,False
+MNQ,"Myers, Hanson and Smith Airlines",Iceland,False
+NH,Hill Inc Airlines,Luxembourg,True
+VX,"Jones, Dodson and Krause Airlines",Ukraine,True
+KN,"Wilson, Day and Hughes Airlines",Andorra,True
+PF,Pruitt-Fuentes Airlines,Afghanistan,False
+IAJ,Hall-Fernandez Airlines,Heard Island and McDonald Islands,False
+IW,Cobb-Hammond Airlines,Martinique,True
+OX,Davis-White Airlines,Morocco,True
+VU,"Sanchez, Brown and Graham Airlines",Isle of Man,False
+PZ,Rivera and Sons Airlines,Yemen,True
+ZE,Cantrell PLC Airlines,Aruba,False
+AS,Wilson and Sons Airlines,Uzbekistan,False
+GB,Frost LLC Airlines,Taiwan,False
+IG,"King, Wallace and Estrada Airlines",Ethiopia,False
+APG,Anderson Inc Airlines,Liechtenstein,True
+MKA,Adams-Walker Airlines,Equatorial Guinea,True
+AH,"Mcgrath, Diaz and Palmer Airlines",Northern Mariana Islands,False
+US,Cunningham and Sons Airlines,Slovakia (Slovak Republic),False
+TF,Jones PLC Airlines,El Salvador,True
+FO,Mosley-Klein Airlines,Senegal,False
+SGT,Cross LLC Airlines,Costa Rica,True
+ZR,Smith Group Airlines,Croatia,False
+RMV,Greene-Washington Airlines,Paraguay,False
+ZS,Shaw Inc Airlines,Finland,True
+ML,Smith-Garcia Airlines,Eritrea,True
+TS,Mccormick-Bond Airlines,Lebanon,True
+OT,Juarez LLC Airlines,Saint Lucia,False
+QA,Walker PLC Airlines,Somalia,True
+BB,Garcia-Robinson Airlines,Sweden,True
+RX,Hansen-Stone Airlines,Mauritania,True
+UE,"Guzman, Wilson and Howe Airlines",Finland,True
+CZ,"Heath, Brown and Martin Airlines",Saint Kitts and Nevis,True
+BQ,Lewis PLC Airlines,Panama,False
+QD,Hopkins LLC Airlines,Christmas Island,True
+EG,"Singleton, Summers and Knight Airlines",Mozambique,True
+VCK,Young-Boyd Airlines,Congo,False
+KBE,Jones-Whitehead Airlines,Saint Kitts and Nevis,False
+RJ,Freeman-Baker Airlines,Colombia,False
+QT,"Walters, Long and Krause Airlines",Panama,True
+QN,Jones LLC Airlines,India,False
+PJ,Williams-Coleman Airlines,American Samoa,True
+VK,Small LLC Airlines,Cyprus,False
+VOQ,"Calderon, Robertson and West Airlines",Russian Federation,True
+BV,Martin Inc Airlines,Luxembourg,True
+PK,Lee PLC Airlines,Pitcairn Islands,False
+HK,Henson Inc Airlines,Mauritius,False
+LR,"Neal, Brown and Reynolds Airlines",Belgium,False
+XC,Rojas PLC Airlines,Monaco,True
+QAK,"Williams, Rivas and Lewis Airlines",United States Virgin Islands,True
+VLD,Barker LLC Airlines,French Southern Territories,False
+YBZ,"Hopkins, Madden and Nelson Airlines",Poland,False
+UNV,Robertson and Sons Airlines,Wallis and Futuna,True
+ZV,Butler LLC Airlines,Costa Rica,True
+CW,"Gallegos, Parks and Weeks Airlines",Bermuda,False
+PY,Alexander LLC Airlines,United States Minor Outlying Islands,True
+QM,Serrano-Johnson Airlines,Mali,False
+UP,Robinson Group Airlines,Russian Federation,False
+VPW,Edwards-Cook Airlines,Mali,False
+BL,Roman Group Airlines,Germany,False
+FMG,"Lawrence, Conway and Little Airlines",Sierra Leone,True
+SS,Miller Inc Airlines,Sudan,False
+OYV,"White, Sullivan and Walker Airlines",Pakistan,True
+UW,Adams-Riley Airlines,Colombia,False
+AKT,"Miller, Yang and Fletcher Airlines",Latvia,True
+JKA,Jefferson Ltd Airlines,Tanzania,False
+EF,Norton Inc Airlines,Nigeria,False
+MI,Miller and Sons Airlines,Guatemala,True
+BZ,Petty Group Airlines,Mauritius,True
+TIM,Porter-Mitchell Airlines,Papua New Guinea,False
+RJO,Snyder-Harris Airlines,Morocco,False
+WX,"Wright, Holt and Mendoza Airlines",Cyprus,True
+AA,Sims PLC Airlines,Finland,True
+LC,"Gonzalez, Stevens and Marquez Airlines",Congo,False
+PQU,Ramirez Inc Airlines,Sierra Leone,False
+WK,"Lane, Russell and Park Airlines",Jordan,True
+JT,Harris-Hill Airlines,Thailand,False
+UU,Hall Inc Airlines,Reunion,True
+ZG,Gardner PLC Airlines,Mozambique,True
+HZ,Williams Group Airlines,Argentina,True
+BW,Nguyen-Huynh Airlines,Croatia,False
+PUF,"Dougherty, Bryant and Elliott Airlines",Netherlands Antilles,True
+YOI,Jackson and Sons Airlines,Sri Lanka,False
+QDW,Horton-Torres Airlines,Bahamas,False
+DBP,Stewart LLC Airlines,Germany,False
+RO,Wilson-Ferguson Airlines,Northern Mariana Islands,True
+MW,"Diaz, Morgan and Garcia Airlines",Qatar,False
+BX,"Hicks, Clark and Armstrong Airlines",Equatorial Guinea,False
+GP,"Flores, Williams and Moore Airlines",Singapore,False
+KL,"Estrada, Turner and Joyce Airlines",Turkmenistan,False
+YHC,"Morales, Mendez and Daugherty Airlines",Philippines,False
+ZZ,"Mcfarland, Hunt and Herring Airlines",Lebanon,False
+JUO,Thomas-Davis Airlines,Somalia,True
+JG,Moran Inc Airlines,Georgia,False
+CRM,"Crawford, May and Larson Airlines",Timor-Leste,False
+JW,Chandler Ltd Airlines,Cyprus,True
+QGU,Campos Ltd Airlines,Gambia,True
+OE,Lee Group Airlines,Nepal,False
+JJT,Sandoval Inc Airlines,Mauritania,True
+CL,Villa LLC Airlines,Christmas Island,False
+KV,Richardson-Hudson Airlines,Burkina Faso,False
+AZT,Johnson and Sons Airlines,Antigua and Barbuda,False
+HR,Gonzales Ltd Airlines,Niger,False
+DSE,Brown Inc Airlines,Senegal,True
+HA,Moreno-Cook Airlines,Norfolk Island,False
+HX,Henry-Rodriguez Airlines,Afghanistan,True
+UDI,"Robinson, Heath and Hill Airlines",Gibraltar,True
+ENW,"James, Becker and Baker Airlines",Georgia,True
+YO,Mora Ltd Airlines,Austria,False
+IA,Robles Group Airlines,Montserrat,False
+LKM,"Ortiz, White and Ramirez Airlines",New Caledonia,False
+SM,"Bullock, Brown and Roy Airlines",Lithuania,True
+VD,"Bishop, Kennedy and Cowan Airlines",Greece,True
+UGO,Welch-Wilcox Airlines,Serbia,False
+CQ,"Ibarra, Alexander and Morse Airlines",Switzerland,True
+TQC,"Carter, Perez and Key Airlines",Saudi Arabia,True
+ITG,Hughes PLC Airlines,Greenland,False
+AO,Clark-Sparks Airlines,Tunisia,False
+CB,Rice Group Airlines,Uruguay,True
+KHP,"Wilson, Davis and Perez Airlines",Syrian Arab Republic,True
+DP,Morgan LLC Airlines,Wallis and Futuna,True
+ITC,Newman Group Airlines,Denmark,True
+BTC,Kim-French Airlines,Uruguay,False
+NQ,Hunter and Sons Airlines,Taiwan,False
+UV,Morse LLC Airlines,Burkina Faso,False
+OHH,"Jones, Olson and Guzman Airlines",Nauru,False
+LJ,Conner-Harris Airlines,Bahamas,True
+ZJ,"Mullen, Moore and Chapman Airlines",Botswana,False
+ZF,"Aguirre, Colon and Garcia Airlines",Cape Verde,True
+KE,Smith-Santos Airlines,Sao Tome and Principe,True
+JKQ,Brown-Johnson Airlines,Italy,False
+BS,Hernandez-Reid Airlines,Cambodia,True
+KA,Mendoza-Owen Airlines,Guadeloupe,True
+QB,"Schultz, Russell and Ramirez Airlines",Sri Lanka,True
+KQ,Horne-White Airlines,Saint Barthelemy,True
+XEC,Garza Ltd Airlines,French Southern Territories,True
+ZTJ,Lang-Johnson Airlines,Turkey,False
+VL,Palmer-Holland Airlines,San Marino,False
+EVI,Lamb and Sons Airlines,Saint Helena,True
+OWY,Copeland-Giles Airlines,Peru,True
+DWR,Stone-Davenport Airlines,Malaysia,True
+MY,Phillips-Gomez Airlines,Turkey,True
+GO,Hansen-Rodriguez Airlines,Nicaragua,True
+WI,Simpson-Bright Airlines,Gambia,True
+MD,"Cunningham, Hopkins and Clayton Airlines",Saint Kitts and Nevis,True
+OL,Vaughan LLC Airlines,Guatemala,True
+YYR,Smith LLC Airlines,Ethiopia,True
+VBM,Andrews-Martinez Airlines,Saint Vincent and the Grenadines,True
+ELN,Wilkinson Group Airlines,Tokelau,True
+FA,Kennedy PLC Airlines,Nauru,True
+RE,"Mueller, Miller and Scott Airlines",Turks and Caicos Islands,False
+ND,Johnson-Pearson Airlines,Congo,False
+TFU,Smith Inc Airlines,Pitcairn Islands,True
+RDA,Taylor-Boyd Airlines,Germany,False
+MVE,Williams-Goodman Airlines,Albania,False
+JO,"Wolf, Reyes and Andrews Airlines",Mauritania,True
+AB,Ball LLC Airlines,Bangladesh,True
+DI,"Harmon, Miller and Burch Airlines",Antigua and Barbuda,False
+UX,"Johnson, Turner and Hicks Airlines",Samoa,False
+AV,Smith-Nelson Airlines,Luxembourg,False
+ZDF,Hubbard and Sons Airlines,Malaysia,False
+UF,Ferrell Group Airlines,Iran,True
+LXC,Harris Inc Airlines,Jersey,False
+BTJ,Mccarthy Inc Airlines,French Polynesia,True
+WP,Ortiz PLC Airlines,Afghanistan,False
+GSR,"Smith, Sullivan and Wilson Airlines",Finland,False
+GK,"Johnson, Martinez and Lewis Airlines",Gambia,False
+RBE,Smith-Johnson Airlines,Greenland,True
+XM,Perez Group Airlines,Ukraine,False
+OWD,Morris Group Airlines,Chad,False
+XCQ,Walker Inc Airlines,Mozambique,True
+WCD,Scott-Thompson Airlines,Russian Federation,True
+RFF,Perry-Logan Airlines,Ireland,True
+NX,Franco-King Airlines,Bouvet Island (Bouvetoya),False
+XWA,Kaiser PLC Airlines,Hungary,False
+BI,Oneal PLC Airlines,Kenya,True
+KNP,Delacruz Group Airlines,Angola,True
+IX,Johnston-Fisher Airlines,Togo,True
+RH,Mueller LLC Airlines,United Arab Emirates,False
+SV,Sanchez PLC Airlines,Cuba,True
+YGJ,Larson-Delgado Airlines,South Africa,True
+YU,"Arellano, Avila and Edwards Airlines",Turkmenistan,False
+LB,Clark-Petersen Airlines,Chile,True
+MQK,Benitez-Maldonado Airlines,Saint Pierre and Miquelon,False
+OA,"Gibson, Hayden and Huffman Airlines",Malaysia,True
+OY,Patel-Gray Airlines,Heard Island and McDonald Islands,False
+FR,Cooper PLC Airlines,Panama,True
+HO,Everett LLC Airlines,Tonga,False
+DW,Davis Inc Airlines,Hungary,True
+IMD,Perez-Jenkins Airlines,Indonesia,True
+AP,Perez-Shepard Airlines,United States of America,False
+NJ,"Simpson, Blevins and Faulkner Airlines",Grenada,False
+BU,Tanner-Fisher Airlines,Guernsey,False
+GYP,"Kennedy, Sanford and Simmons Airlines",Bahrain,False
+ABB,Mata Ltd Airlines,Egypt,True
+WV,Richard LLC Airlines,Mexico,True
+NCI,"Jones, Collins and Fisher Airlines",Belarus,True
+UJ,Young-Logan Airlines,Denmark,True
+QJ,"Williams, White and Russell Airlines",Georgia,False
+PS,Prince-Lewis Airlines,Jordan,True
+ZBV,Cochran Group Airlines,Algeria,True
+SY,"Taylor, Mason and Wyatt Airlines",Mayotte,False
+LA,Cook Group Airlines,Aruba,False
+TH,Woods-Sims Airlines,British Virgin Islands,False
+YWH,Miller-Ayala Airlines,Saint Vincent and the Grenadines,False
+RR,Cobb PLC Airlines,British Virgin Islands,False
+GDE,Johnson Group Airlines,New Zealand,False
+WUT,Juarez-Sheppard Airlines,Mozambique,False
+QW,Gonzalez PLC Airlines,Serbia,True
+BOM,"Bray, Figueroa and Smith Airlines",Uruguay,False
+VLP,Rodriguez LLC Airlines,Poland,True
+CH,Wright-Gilmore Airlines,Singapore,True
+GI,Hinton-Mcknight Airlines,Mauritius,False
+FVZ,"Butler, Davis and Park Airlines",Georgia,False
+ZFO,Nguyen Group Airlines,Antigua and Barbuda,True
+MBU,"Campos, Olsen and Harrison Airlines",Jamaica,False
+XQK,Cohen-Adkins Airlines,Tajikistan,True
+CWE,"Hoffman, Collins and Lyons Airlines",Eritrea,True
+IRN,Cox Group Airlines,Wallis and Futuna,True
+ZQ,Jacobs and Sons Airlines,Zambia,False
+SIY,Baker-Reyes Airlines,Ireland,False
+NWB,Marks-Holland Airlines,Panama,False
+TR,Lloyd Ltd Airlines,Hong Kong,True
+UN,Lowe Ltd Airlines,Mozambique,True
+RSA,"Huber, Hernandez and Brown Airlines",Barbados,True
+BQZ,"Palmer, Anderson and Shaw Airlines",Reunion,True
+CC,"Davis, Elliott and Martinez Airlines",Lesotho,False
+SQ,"Jacobs, Moreno and Cuevas Airlines",Chile,True
+APT,Thomas-Flores Airlines,Moldova,True
+LW,Morris-Velez Airlines,Hungary,False
+YRE,"Nelson, Salas and Zuniga Airlines",Guatemala,True
+KX,"Cole, Simmons and Sanchez Airlines",Niger,True
+OG,Webster-Scott Airlines,Chad,True
+XOP,Atkins Group Airlines,Mayotte,False
+AW,Cooper-Rivera Airlines,Slovenia,True
+JL,Rivas-Taylor Airlines,Montserrat,False
+ZH,"Smith, Kidd and Gonzales Airlines",Djibouti,False
+YQ,Gibson Group Airlines,Western Sahara,False
+TC,Johnson-Cunningham Airlines,Slovenia,True
+AIQ,Meyers LLC Airlines,Samoa,False
+NPV,Jenkins Group Airlines,Iceland,False
+MOY,Carr-Martinez Airlines,Colombia,True
+VPB,Taylor Inc Airlines,Botswana,True
+QIA,Bautista-Marquez Airlines,Sao Tome and Principe,False
+NV,Young-Villegas Airlines,Jamaica,False
+BEV,Morse Inc Airlines,Ireland,False
+SJ,"Flynn, York and Moore Airlines",Cote d'Ivoire,True
+EU,Washington LLC Airlines,Antarctica (the territory South of 60 deg S),True
+PM,Moran and Sons Airlines,Syrian Arab Republic,True
+BP,White Ltd Airlines,Equatorial Guinea,True
+IQ,Anderson-Hays Airlines,Trinidad and Tobago,True
+BFX,Hall Group Airlines,Switzerland,False
+QUD,Cummings-Wilcox Airlines,Sweden,True
+LMA,"Fernandez, Johnson and Brooks Airlines",Guam,True
+MX,Myers Group Airlines,Timor-Leste,True
+MQZ,Alvarado-Newman Airlines,Nigeria,True
+JMJ,"Webb, Abbott and Fritz Airlines",Belgium,False
+KRD,Thomas-Hill Airlines,Montserrat,False
+XV,Brown Inc Airlines,Ireland,False
+GW,Jefferson-Rodriguez Airlines,Kazakhstan,False
+LRX,Morales-Mccormick Airlines,Dominica,True
+LN,"George, Henderson and Brown Airlines",Haiti,True
+EX,"Ruiz, Wilson and Pitts Airlines",Cambodia,False
+JGU,Payne and Sons Airlines,San Marino,False
+FP,Knapp PLC Airlines,Suriname,False
+LUF,Allen-Williams Airlines,New Zealand,False
+JY,"Myers, Hill and Martinez Airlines",Israel,False
+OP,Rosario-Owens Airlines,Saint Helena,True
+UVO,"Walker, Wood and Robinson Airlines",French Southern Territories,True
+DQ,Boyd-Newman Airlines,Cote d'Ivoire,False
+XP,"Williams, Ryan and Hernandez Airlines",Turkmenistan,True
+IM,"Barnes, Lynch and Thomas Airlines",Tuvalu,False
+NT,Walter Ltd Airlines,Mali,False
+ORI,Bolton Ltd Airlines,Cocos (Keeling) Islands,True
+OO,"Watson, Phelps and Johnson Airlines",Cook Islands,False
+TUS,Allen-Blackburn Airlines,Rwanda,False
+WD,Cooper-Arnold Airlines,Togo,False
+ZYI,"Roberts, Moore and Harris Airlines",Czech Republic,False
+JAS,Nelson-Cannon Airlines,India,False
+OOC,Morales-Lopez Airlines,Lesotho,False
+GR,"Hernandez, Armstrong and Nguyen Airlines",Turkmenistan,True
+LI,"Parrish, Hawkins and Gordon Airlines",Hungary,False
+IY,Johnson-Silva Airlines,San Marino,False
+OOB,Hart Inc Airlines,Djibouti,True
+TKA,Nicholson-Donovan Airlines,Macao,True
+PI,"Carroll, Mills and Baldwin Airlines",Albania,False
+XTY,"Patterson, Walker and Martinez Airlines",Comoros,False
+NW,Stephenson-Johnson Airlines,Tonga,False
+NNL,Gonzalez PLC Airlines,United States of America,True
+WBW,"Davidson, Chavez and Villa Airlines",Palestinian Territory,True
+DOV,"Fowler, Rivera and Patel Airlines",Eritrea,True
+DJ,"Gordon, Carter and Cook Airlines",Honduras,False
+TCS,Reese-Anderson Airlines,British Indian Ocean Territory (Chagos Archipelago),False
+ED,"Briggs, Andrade and Diaz Airlines",Bouvet Island (Bouvetoya),False
+TXD,Ellison Ltd Airlines,Mauritania,False
+LHA,Moon-Martin Airlines,Indonesia,True
+NZH,Elliott-Thompson Airlines,Montserrat,False
+OPY,"Wilson, Fernandez and Rush Airlines",Montserrat,True
+CBB,Ramsey Group Airlines,Christmas Island,False
+FLD,Barber Group Airlines,Dominican Republic,True
+RU,Allen PLC Airlines,Tonga,True
+TOW,Horton-Carlson Airlines,Solomon Islands,False
+QO,Crawford-Scott Airlines,Argentina,True
+IU,Fernandez Ltd Airlines,Korea,True
+YI,"Moss, Smith and Brady Airlines",Guadeloupe,True
+GWI,Wise-Hartman Airlines,Isle of Man,True
+AT,Salazar LLC Airlines,Bahrain,False
+WPT,Newman-Vaughn Airlines,Pitcairn Islands,False
+HOP,Stanley-Escobar Airlines,Tuvalu,False
+IJG,Johnson Group Airlines,Morocco,True
+UDG,Douglas-Greene Airlines,British Virgin Islands,False
+MRM,"Fisher, Reed and Ortiz Airlines",Lebanon,False
+DE,"Flynn, Morales and Stephens Airlines",Guinea-Bissau,False
+FJS,Nguyen Ltd Airlines,Brunei Darussalam,False
+RN,"King, Rivera and Powers Airlines",Guatemala,True
+GC,Harrison-Hill Airlines,Cayman Islands,True
+GPD,Zuniga-Murphy Airlines,Thailand,False
+DEF,"Haynes, Davidson and Smith Airlines",Algeria,True
+DD,"Bowers, Davis and Schultz Airlines",Kenya,True
+INP,Wilson-Castro Airlines,New Caledonia,True
+LV,"Murray, Cook and Kline Airlines",Sri Lanka,True
+DSQ,Hernandez-James Airlines,Uganda,True
+PV,Mcpherson-Soto Airlines,Saint Barthelemy,True
+AM,Richardson-Baird Airlines,Bosnia and Herzegovina,False
+SZQ,Wade-Werner Airlines,Austria,True
+FSI,Snyder-Hicks Airlines,Korea,True
+ZP,Kelly-Oneal Airlines,Myanmar,False
+ZK,"Soto, White and Paul Airlines",Brunei Darussalam,False
+LK,"Boyle, Snyder and Walls Airlines",Eritrea,False
+RZA,Vaughan and Sons Airlines,Greenland,True
+ZM,"Bowen, Stephens and Pena Airlines",Tajikistan,False
+WJ,Young and Sons Airlines,Cape Verde,True
+POF,Morrison and Sons Airlines,Taiwan,True
+UG,Welch-Hall Airlines,British Indian Ocean Territory (Chagos Archipelago),False
+YEZ,Wise-Adams Airlines,Saint Lucia,False
+JN,"Smith, Sparks and Adams Airlines",New Zealand,False
+MNV,Johnson Group Airlines,Venezuela,True
+FV,Wright-Sanders Airlines,Mozambique,False
+BE,"Pratt, Zavala and Smith Airlines",Maldives,True
+SC,Wheeler Inc Airlines,Namibia,True
+PG,"Howard, Wiley and Lewis Airlines",Korea,True
+HE,Weeks Ltd Airlines,Azerbaijan,False
+CWG,Morrow-Jones Airlines,Saint Barthelemy,False
+VO,Reynolds-Clark Airlines,Belarus,False
+MB,Patrick-Cruz Airlines,Jersey,False
+VEG,"Wilson, Smith and Hodge Airlines",Latvia,True
+WO,Davis-Gregory Airlines,Iceland,False
+DG,Fernandez LLC Airlines,Micronesia,True
+YF,"Ramirez, Johnson and Gallagher Airlines",New Caledonia,True
+XPZ,Scott Group Airlines,Guadeloupe,True
+KIS,"Moran, Cruz and Jordan Airlines",Falkland Islands (Malvinas),False
+DM,Barr and Sons Airlines,Cocos (Keeling) Islands,False
+XML,"Pineda, Graham and Jackson Airlines",Estonia,True
+IE,Norman LLC Airlines,Cambodia,True
+ZJF,Thornton-Meadows Airlines,Yemen,False
+HD,"Benton, Rogers and Evans Airlines",Togo,True
+KG,Taylor PLC Airlines,Dominican Republic,False
+HFQ,Williams LLC Airlines,Syrian Arab Republic,False
+ALW,Rogers PLC Airlines,American Samoa,True
+VUI,Lamb Ltd Airlines,Korea,True
+LPG,"Montoya, Kane and Griffin Airlines",Lao People's Democratic Republic,True
+RBV,"Brown, Gregory and Armstrong Airlines",Sudan,False
+UH,Hughes Inc Airlines,Portugal,False
+JR,Elliott PLC Airlines,Norway,False
+BBZ,Lopez-Lawson Airlines,Central African Republic,True
+DFK,"Baker, Hughes and Gomez Airlines",Ghana,False
+YKB,"Leon, Mcintyre and Johnson Airlines",French Southern Territories,False
+YVI,"Ewing, Freeman and Wells Airlines",Slovakia (Slovak Republic),False
+KB,Gonzalez-Rogers Airlines,Japan,False
+CG,"Sanders, Roth and Torres Airlines",Denmark,True
+DC,Smith-Franco Airlines,Aruba,False
+FRR,"Ford, Green and Johnson Airlines",Argentina,True
+YH,"Edwards, Walker and Mejia Airlines",Bulgaria,False
+HC,Hart Ltd Airlines,Dominican Republic,True
+QP,"Garcia, Hall and Wise Airlines",Haiti,True
+TU,"Campbell, Lewis and Lopez Airlines",Niger,False
+LQ,Fowler Inc Airlines,Turkmenistan,False
+XQN,Simpson Group Airlines,United Arab Emirates,False
+TYT,Hendricks-Fox Airlines,Togo,True
+MFC,Lopez-Powell Airlines,El Salvador,False
+CWE,Heath Ltd Airlines,Panama,True
+WF,Ramirez-Burke Airlines,Isle of Man,True
+FU,Baird Group Airlines,Iraq,False
+BG,"Lopez, Saunders and Travis Airlines",Finland,True
+NB,Li Group Airlines,Cape Verde,True
+BBQ,Henderson-Valenzuela Airlines,Nicaragua,True
+AC,"Savage, Hines and Quinn Airlines",Somalia,False
+OR,"Vazquez, Jensen and Walker Airlines",Nicaragua,True
+FPN,Davidson-Craig Airlines,Falkland Islands (Malvinas),False
+KFA,Lee PLC Airlines,Mali,True
+KHP,Pierce-Sullivan Airlines,Greece,True
+RMI,Cisneros and Sons Airlines,Cambodia,False
+GD,"Gill, Richards and Norris Airlines",Micronesia,True
+FG,Vance-Wright Airlines,Benin,True
+NK,Kelly-Michael Airlines,India,False
+EDS,Parks-Mitchell Airlines,Saint Pierre and Miquelon,False
+UEE,Burch Inc Airlines,Guernsey,False
+SR,Padilla-Nash Airlines,British Indian Ocean Territory (Chagos Archipelago),True
+DQZ,Obrien and Sons Airlines,Latvia,True
+WVE,Williams-Dickson Airlines,Panama,False
+HZI,"Lopez, Elliott and Montgomery Airlines",Andorra,True
+ZBW,Hudson-Porter Airlines,Guyana,True
+TT,"Bennett, Love and Gray Airlines",Yemen,True
+TQ,Hale-Martin Airlines,Aruba,True
+QU,Wood-Clark Airlines,Czech Republic,True
+UZQ,Garcia-Hines Airlines,Montenegro,True
+PMF,Beck Ltd Airlines,Egypt,True
+XH,"Fuentes, Blackwell and Mckee Airlines",Andorra,True
+FC,Willis-Cook Airlines,Trinidad and Tobago,False
+TJ,"Harris, Singleton and Clark Airlines",Central African Republic,True
+MEJ,Campbell Ltd Airlines,Cocos (Keeling) Islands,False
+OGR,Richardson Group Airlines,Uruguay,True
+RCD,Reeves-Gutierrez Airlines,Macao,True
+TKR,"Sanchez, Bell and Jones Airlines",San Marino,False
+KSU,"Holland, Christensen and Wilson Airlines",Antigua and Barbuda,False
+DLP,"Oneal, Blankenship and Bishop Airlines",Bosnia and Herzegovina,False
+RRR,"Martin, Gardner and Fowler Airlines",Cook Islands,True
+FXL,Smith PLC Airlines,United States Minor Outlying Islands,False
+FNX,Smith-Marquez Airlines,Togo,False
+PLA,Buck and Sons Airlines,Azerbaijan,False
+NLQ,"Evans, Wilson and Rodriguez Airlines",Reunion,True
+GG,"Dixon, Smith and Michael Airlines",United States of America,True
+SVJ,Juarez Group Airlines,Nigeria,False
+FVW,Coffey-Wade Airlines,Benin,True
+MK,Bates and Sons Airlines,Central African Republic,True
+JKV,"Brown, Pierce and Castillo Airlines",Aruba,True
+FQA,Flores-Frazier Airlines,Sri Lanka,False
+TI,Payne LLC Airlines,Rwanda,True
+OYA,Oconnell Group Airlines,Colombia,False
+XGU,"Doyle, Rodriguez and Baker Airlines",Vietnam,True
+BBY,Wright Ltd Airlines,French Polynesia,True
+FZ,Reid-Murphy Airlines,Trinidad and Tobago,False
+WOC,"Kennedy, Singleton and Thomas Airlines",Seychelles,False
+CX,Kim-Meadows Airlines,Azerbaijan,True
+ALD,Wiggins-Love Airlines,Japan,False
+OB,Park PLC Airlines,Samoa,True
+AOV,"Morgan, Hicks and Ramirez Airlines",French Southern Territories,True
+HI,Donaldson-George Airlines,Norfolk Island,False
+OS,Acosta LLC Airlines,Nigeria,False
+GYY,Maldonado Ltd Airlines,Netherlands,True
+OC,"Kent, Richardson and Ramirez Airlines",Thailand,False
+NPN,Hill LLC Airlines,Iran,False
+JXB,Powell Ltd Airlines,Gibraltar,False
+KD,Griffin-Evans Airlines,Saint Kitts and Nevis,False
+UZH,Brooks Ltd Airlines,Saint Helena,False
+MKU,Clark-Smith Airlines,Argentina,False
+YWH,"Molina, Martinez and Russell Airlines",Cook Islands,True
+QL,"Murray, Jackson and Wright Airlines",Zimbabwe,True
+RUY,"Kemp, Floyd and Chase Airlines",Sierra Leone,False
+ZT,Rodriguez LLC Airlines,Bosnia and Herzegovina,False
+UGU,Gibson LLC Airlines,United States of America,False
+OJZ,Sanders-Ford Airlines,Qatar,False
+YJK,Brown and Sons Airlines,Guinea,False
+GJ,"Hawkins, Powers and Dyer Airlines",Japan,False
+PW,Miller Ltd Airlines,Austria,True
+QOR,"Brown, Castro and Bolton Airlines",United States Virgin Islands,False
+VNL,"Stark, Cooper and Dunn Airlines",French Southern Territories,False
+INQ,Gomez and Sons Airlines,Myanmar,False
+DPI,Cannon Ltd Airlines,Montenegro,True
+MUH,Cobb PLC Airlines,Macao,False
+AE,"Duncan, Wright and Byrd Airlines",Peru,True
+GJV,Sanchez-Stone Airlines,Falkland Islands (Malvinas),True
+VV,Deleon-Wagner Airlines,Martinique,True
+GH,Avila LLC Airlines,Mayotte,False
+IL,Glass LLC Airlines,Singapore,False
+NLE,"Brown, Hickman and Graham Airlines",Anguilla,True
+LCH,"Lyons, Porter and Evans Airlines",Austria,True
+PJZ,"Miller, Reed and Smith Airlines",British Indian Ocean Territory (Chagos Archipelago),False
+VM,"Cooper, Young and Combs Airlines",Cuba,False
+MSZ,Armstrong Inc Airlines,Mali,True
+NS,"Edwards, Pena and Hardy Airlines",Bahamas,True
+GHW,Johns-Levine Airlines,Czech Republic,True
+EIV,Bennett-Hernandez Airlines,Libyan Arab Jamahiriya,False
+YX,Smith-Mclaughlin Airlines,Cocos (Keeling) Islands,True
+FDK,Vang-Mullen Airlines,Japan,True
+QYX,"Garcia, Williams and Clark Airlines",Malawi,False
+FT,Guzman-Woods Airlines,Jersey,False
+IMM,Wagner LLC Airlines,Tonga,False
+BXS,Espinoza-Smith Airlines,Lao People's Democratic Republic,False
+NKY,"Lewis, Williamson and Newman Airlines",Timor-Leste,True
+IOI,Phillips-Fitzgerald Airlines,Libyan Arab Jamahiriya,True
+QR,Fuller-Park Airlines,Mali,False
+ITS,"Kennedy, Campbell and Williams Airlines",Benin,False
+ATO,Nelson-Dodson Airlines,Uruguay,False
+AYP,"Aguirre, Atkinson and Shaw Airlines",Iran,False
+JOP,"James, Cruz and Taylor Airlines",Zimbabwe,False
+LT,"Walker, Simpson and Leonard Airlines",Saint Lucia,False
+MU,"Rogers, Myers and Koch Airlines",Armenia,True
+KM,Russo-Lam Airlines,Albania,False
+DQK,Olson Ltd Airlines,Guadeloupe,False
+NNV,Freeman-Thompson Airlines,Samoa,True
+YUT,Hall-Roberts Airlines,Djibouti,True
+QOA,Giles-Arnold Airlines,Colombia,False
+YQW,Lewis Ltd Airlines,Sierra Leone,False
+RZ,Garcia and Sons Airlines,Moldova,True
+OI,Smith-Cortez Airlines,Equatorial Guinea,False
+YWV,"Burns, Torres and Green Airlines",Sao Tome and Principe,False
+KT,Carter-Marsh Airlines,Spain,True
+BFV,"Murphy, Watson and Taylor Airlines",Malawi,False
+WQ,Taylor-Smith Airlines,Maldives,True
+RTS,Pratt Inc Airlines,Sao Tome and Principe,True
+WKW,Parker-Cervantes Airlines,Vanuatu,True
+DA,Tucker Inc Airlines,Palau,True
+ME,Weber Ltd Airlines,Colombia,False
+JLV,Melton-Brock Airlines,Algeria,True
+KS,"Russell, Cabrera and Wood Airlines",Comoros,True
+VND,Walker LLC Airlines,Latvia,True
+WZK,Griffin and Sons Airlines,Puerto Rico,True
+HOB,"Scott, Martin and Powell Airlines",Lesotho,True
+KP,"Jones, Benton and Erickson Airlines",Suriname,True
+IIX,"Brown, Silva and Glenn Airlines",United Arab Emirates,False
+NRD,Coleman-Anderson Airlines,United Arab Emirates,False
+VZL,Hayes and Sons Airlines,Kyrgyz Republic,False
+CU,Graham PLC Airlines,Togo,False
+JBG,"Gutierrez, Byrd and Hawkins Airlines",Indonesia,True
+QYK,"Bailey, Maldonado and Bennett Airlines",Cook Islands,True
+GNG,Hunt and Sons Airlines,Estonia,True
+XWW,"Williams, King and Johnson Airlines",Heard Island and McDonald Islands,True
+XW,Collins-Sullivan Airlines,Botswana,True
+OEY,Mccarthy Group Airlines,Zimbabwe,False
+JF,Stanley-Gutierrez Airlines,Kuwait,False
+ZFP,Rodriguez Group Airlines,North Macedonia,False
+RA,Evans PLC Airlines,Gambia,True
+HL,Briggs and Sons Airlines,Mauritius,False
+PE,Case-Cowan Airlines,Kenya,True
+OJC,"Morrow, Hahn and Mcmillan Airlines",North Macedonia,True
+PN,Martinez-Cline Airlines,Cayman Islands,True
+XDP,"Wagner, Ramirez and Moore Airlines",Korea,False
+QV,Nguyen Group Airlines,Korea,True
+HUF,Hanson-Hernandez Airlines,Bosnia and Herzegovina,False
+ZZR,Moore Inc Airlines,Argentina,False
+BCY,Singh-Collier Airlines,Moldova,False
+HBV,Gomez-Macias Airlines,Liechtenstein,False
+MDW,"Smith, Gutierrez and Henson Airlines",Dominican Republic,True
+IJ,Douglas-Grant Airlines,Moldova,False
+NXY,Holder-Clay Airlines,Turkey,True
+RVI,Chapman Inc Airlines,Angola,True
+ID,"Harris, Jackson and Edwards Airlines",Burundi,False
+SIP,"Webster, Green and Mccoy Airlines",Bangladesh,False
+FVP,"Chan, Bates and Allen Airlines",Tuvalu,True
+IAW,Dixon Inc Airlines,Nigeria,False
+VT,"Holmes, Rivera and Gomez Airlines",Swaziland,False
+KEH,"Smith, Harrison and Vazquez Airlines",Madagascar,True
+AGL,Green-Russell Airlines,Lithuania,True
+DL,Mason-Martinez Airlines,Uzbekistan,True
+VS,"Simon, Mann and Lin Airlines",Netherlands Antilles,False
+ZLG,Macdonald and Sons Airlines,Afghanistan,False
+PB,Nguyen and Sons Airlines,Anguilla,True
+JTG,Davis LLC Airlines,Tajikistan,True
+OZU,Mclean and Sons Airlines,Indonesia,True
+OHN,Riley PLC Airlines,Russian Federation,False
+MR,White LLC Airlines,Bhutan,True
+GTO,Russell LLC Airlines,Peru,True
+KCS,"Moore, Armstrong and Faulkner Airlines",Azerbaijan,False
+JKO,Jones-Roach Airlines,Tajikistan,True
+JFK,"Jones, Edwards and Lowery Airlines",Dominica,False
+VW,Fox PLC Airlines,El Salvador,False
+AYR,Fuller-Walker Airlines,Vietnam,True
+PVM,"Reynolds, Mcclain and James Airlines",Iraq,False
+IT,Carter Ltd Airlines,Bulgaria,True
+GJQ,"Wallace, Perez and Medina Airlines",Armenia,False
+KSC,"Brown, Fletcher and Garrett Airlines",Gabon,False
+IEB,"Young, Rodriguez and Dominguez Airlines",Libyan Arab Jamahiriya,True
+QS,Moon Inc Airlines,Italy,True
+AF,"Rogers, Wu and Walsh Airlines",Yemen,True
+QPA,Park LLC Airlines,Tunisia,False
+BSP,Wright-Parks Airlines,Norfolk Island,True
+BK,Hicks-Johnson Airlines,Burundi,True
+FZT,Galloway PLC Airlines,Djibouti,False
+MQ,Brock LLC Airlines,Iceland,False
+YTZ,Smith Ltd Airlines,Moldova,False
+RKH,Thompson-Rose Airlines,Congo,False
+QNG,Knight-Moore Airlines,Uzbekistan,False
+UXR,Gallagher-Miller Airlines,Saint Pierre and Miquelon,False
+XRB,Adams-Smith Airlines,Northern Mariana Islands,True
+QHP,Ramos-Garza Airlines,Finland,False
+UFN,Duncan PLC Airlines,Cocos (Keeling) Islands,False
+WB,Mills Ltd Airlines,Morocco,True
+FJ,Lee Inc Airlines,Guadeloupe,True
+CVV,Gomez Group Airlines,Russian Federation,False
+KH,Green and Sons Airlines,Andorra,True
+IFM,Dickerson Ltd Airlines,Vanuatu,True
+GZQ,Young-Martin Airlines,Israel,False
+VJ,Davis-Wilkerson Airlines,Brazil,False
+HW,Williams Ltd Airlines,Zimbabwe,False
+LO,Walsh and Sons Airlines,Isle of Man,True
+KJW,Smith-Thomas Airlines,Russian Federation,False
+BFI,Collins PLC Airlines,American Samoa,True
+CI,"Cross, Jones and Mcdonald Airlines",Iran,True
+WH,Salinas-Pierce Airlines,Comoros,True
+APV,"Holmes, Cabrera and Warner Airlines",Congo,True
+GHJ,"Ray, Smith and Anderson Airlines",Guinea-Bissau,False
+PO,"Sanchez, Brown and Ball Airlines",El Salvador,True
+GJC,Burch-Bartlett Airlines,Cambodia,True
+EA,"Ball, Johnson and Spencer Airlines",Faroe Islands,False
+NXS,Thompson Ltd Airlines,Australia,False
+JPL,Mccoy-Russell Airlines,Panama,False
+PSO,Burch Group Airlines,Albania,True
+HXJ,Cooper and Sons Airlines,Somalia,False
+FXC,Harris PLC Airlines,Uganda,True
+MT,Craig Inc Airlines,Iran,True
+WHD,"Villa, Griffin and Contreras Airlines",Faroe Islands,True
+QWF,Mclaughlin-Davis Airlines,Western Sahara,False
+YN,"Parker, Clayton and Ramsey Airlines",Nigeria,True
+QIS,Olson-Foster Airlines,Andorra,True
+WAO,Bell Ltd Airlines,Lithuania,False
+UI,Lowe-Hawkins Airlines,Costa Rica,True
+COR,Colon Ltd Airlines,Czech Republic,True
+XWM,Tapia Inc Airlines,Rwanda,True
+CYN,Smith Ltd Airlines,Lithuania,False
+PT,Randolph LLC Airlines,Cote d'Ivoire,True
+XT,"Hernandez, Vincent and Cox Airlines",Isle of Man,True
+KUK,Lynch-Fernandez Airlines,United States of America,True
+LF,Moore-Diaz Airlines,Swaziland,True
+XGV,"Faulkner, Gross and Palmer Airlines",American Samoa,True
+MMZ,"Holt, Henson and Forbes Airlines",Bulgaria,False
+THS,Harper-Lopez Airlines,Australia,True
+XD,Parker Ltd Airlines,United Kingdom,True
+MUW,Robinson-Irwin Airlines,United States of America,False
+DK,Lopez and Sons Airlines,Monaco,False
+BZW,Cox Inc Airlines,Benin,False
+ZJY,Figueroa LLC Airlines,Montenegro,True
+SIK,Sparks PLC Airlines,Montserrat,True
+FKD,Brown Ltd Airlines,Australia,False
+IH,Martinez LLC Airlines,Somalia,False
+LYK,"Sandoval, Cox and Davis Airlines",Trinidad and Tobago,False
+GQB,Harper-Cardenas Airlines,United Kingdom,False
+QTU,"Henderson, Hodge and Parker Airlines",Saudi Arabia,True
+CS,Mckee-Holder Airlines,Korea,True
+NND,Booker Group Airlines,British Virgin Islands,True
+QSF,"Giles, Richardson and Jackson Airlines",Croatia,False
+CSX,"Miller, Cruz and Riggs Airlines",Mexico,False
+OWW,Robinson-Hardy Airlines,Vanuatu,False
+ZAM,Clements LLC Airlines,Kyrgyz Republic,False
+YQU,Harris-Davis Airlines,San Marino,False
+GSU,"Lee, Wright and Parker Airlines",Somalia,False
+LGJ,Tucker-Coleman Airlines,Yemen,False
+PX,Juarez-Hernandez Airlines,Kenya,True
+WLX,"Cox, Johnson and Carter Airlines",French Guiana,True
+MWO,Huerta-Lee Airlines,Falkland Islands (Malvinas),True
+GPQ,"Valdez, Anderson and Moss Airlines",Myanmar,False
+FOH,"Cantu, Boyd and Conway Airlines",Falkland Islands (Malvinas),False
+WVP,Robinson Inc Airlines,Aruba,True
+SVD,Olsen and Sons Airlines,France,False
+RG,"Fox, Miller and Mcclure Airlines",French Guiana,True
+CP,Arias-Allen Airlines,Sierra Leone,True
+SQZ,"Case, Davis and Simpson Airlines",Namibia,True
+TN,Lin-Coleman Airlines,United Kingdom,False
+LJP,Sandoval PLC Airlines,Iran,False
+QF,Mullins-Johnson Airlines,Korea,False
+DMQ,Wheeler-Martin Airlines,Trinidad and Tobago,False
+MYN,Miller LLC Airlines,Benin,True
+XL,Yang Group Airlines,Dominica,False
+OIZ,Hicks Ltd Airlines,Congo,False
+JYU,"Miller, Greene and Rodriguez Airlines",Brunei Darussalam,True
+XUS,Gomez-Hensley Airlines,Austria,False
+KF,Byrd-George Airlines,China,False
+FBB,"Foley, Goodwin and Thompson Airlines",Jersey,False
+DN,"Gross, Robinson and Francis Airlines",Sri Lanka,True
+ITW,Morgan PLC Airlines,Mexico,False
+ODW,"Reeves, Phillips and Briggs Airlines",Benin,True
+EZT,Nelson Ltd Airlines,Sudan,False
+UFW,Malone-Farmer Airlines,Greenland,True
+DF,Morton Inc Airlines,Liberia,True
+SFD,Stewart-Cook Airlines,Jersey,False
+GPC,Abbott-Garcia Airlines,Turkmenistan,False
+ZTZ,Torres and Sons Airlines,Mauritius,False
+RF,"Garcia, Lowery and Warren Airlines",Vanuatu,False
+ZYV,"Sanchez, Fowler and Wyatt Airlines",Cyprus,True
+BXN,Johnson LLC Airlines,Nicaragua,False
+UOU,Higgins and Sons Airlines,Norway,True
+YCP,Mills-Dudley Airlines,Belarus,False
+WL,"Berg, Conley and Olsen Airlines",Malaysia,False
+CR,Harrison-Martinez Airlines,Monaco,True
+DXN,Dodson and Sons Airlines,Belgium,False
+HAM,Horton Ltd Airlines,Syrian Arab Republic,False
+MPS,Blake-Thomas Airlines,Liberia,False
+HRS,"Vang, Walker and Wiggins Airlines",Indonesia,True
+GAN,Wallace-Wagner Airlines,Turkmenistan,False
+VWH,Boone Ltd Airlines,Sri Lanka,True
+NN,Garcia Inc Airlines,Singapore,True
+FVF,Rodriguez-Fletcher Airlines,San Marino,True
+DVS,Thompson-Moore Airlines,Kuwait,True
+VMM,Miller Group Airlines,Mayotte,True
+NQW,Cole-Booker Airlines,Libyan Arab Jamahiriya,True
+FUN,"Gonzalez, Hill and Martin Airlines",Bouvet Island (Bouvetoya),True
+FS,"Martinez, Salinas and Moore Airlines",Denmark,False
+HV,"Barton, Harris and Alexander Airlines",Italy,True
+AI,Carter Group Airlines,Croatia,True
+ZIZ,Martin LLC Airlines,Solomon Islands,True
+YEZ,Noble-Wade Airlines,Antigua and Barbuda,False
+WW,Ellis-Castro Airlines,Lithuania,True
+PNA,"Haley, Miller and Burnett Airlines",Namibia,False
+GIB,"Phillips, Allison and Garcia Airlines",Holy See (Vatican City State),True
+HYT,Guerra Ltd Airlines,Bhutan,False
+ETD,Oconnell and Sons Airlines,Namibia,True
+GPE,Rich-Thomas Airlines,Canada,False
+RS,Jones Ltd Airlines,Costa Rica,True
+TUC,Lopez-Smith Airlines,United States Minor Outlying Islands,False
+IV,Taylor Group Airlines,Germany,False
+LBJ,Fuller Group Airlines,Mauritius,False
+TW,"Wheeler, Johnson and Murray Airlines",Saudi Arabia,True
+WVX,Hess-Hill Airlines,Cote d'Ivoire,False
+YMZ,Garcia-Stewart Airlines,Bulgaria,True
+WKO,Baker LLC Airlines,Guam,False
+XBR,Mcguire LLC Airlines,Wallis and Futuna,False
+BVY,Mccormick and Sons Airlines,Malaysia,True
+NNJ,Dalton-Simpson Airlines,Gabon,True
+DY,"Levine, Moran and Juarez Airlines",Saint Pierre and Miquelon,False
+SWA,Hoffman-Castro Airlines,Tanzania,True
+ZBZ,"Hunt, Casey and Taylor Airlines",Saint Helena,True
+HIJ,Cox LLC Airlines,Ecuador,True
+FPS,James-Fernandez Airlines,Venezuela,True
+NZH,Miller-Rios Airlines,Anguilla,False
+XE,"Gonzalez, Smith and Irwin Airlines",Mauritius,True
+IR,Cain Inc Airlines,Norway,True
+WA,"Villa, Collins and Kirby Airlines",Kyrgyz Republic,True
+XBY,Davis Inc Airlines,South Africa,False
+HG,"Harris, Collins and Hodges Airlines",Azerbaijan,True
+QXU,"Moran, Clark and Bolton Airlines",Northern Mariana Islands,True
+EYO,Jackson-White Airlines,Cape Verde,True
+TPH,"Rhodes, Romero and Lee Airlines",Aruba,False
+ANP,"Johnson, Elliott and Ford Airlines",Mongolia,False
+NOW,Hardy-Dickson Airlines,Martinique,False
+PMM,Houston LLC Airlines,Qatar,False
+XY,Garcia-Simmons Airlines,Hungary,True
+ETJ,Gonzalez Ltd Airlines,Tokelau,True
+JE,Murray LLC Airlines,Portugal,True
+GIE,Miller PLC Airlines,Croatia,True
+WJB,Davis Group Airlines,French Polynesia,True
+KEL,Cantrell Ltd Airlines,Kiribati,False
+HAH,"Brady, Moss and Wilson Airlines",Israel,False
+RQR,"Williams, Murphy and Diaz Airlines",San Marino,False
+QDD,"Ball, Graves and Gordon Airlines",Bermuda,True
+PQV,Black-Blevins Airlines,Namibia,False
+DR,"Larson, Savage and Fernandez Airlines",Cuba,True
+HIY,"Villanueva, Cunningham and Montgomery Airlines",Turkey,True
+WQC,Bentley-Charles Airlines,Antarctica (the territory South of 60 deg S),True
+IN,Wilson-Bryan Airlines,Monaco,True
+MUA,"Ryan, Richards and Jensen Airlines",Niue,True
+TB,"Gaines, Smith and Pugh Airlines",Ecuador,True
+AXV,Fisher-Gilbert Airlines,Sierra Leone,True
+DPI,Peterson and Sons Airlines,Micronesia,False
+VZ,Rivera-Fisher Airlines,Palestinian Territory,False
+OF,"Harvey, Pennington and Nguyen Airlines",Fiji,False
+FK,"Thompson, Joyce and Nelson Airlines",Nicaragua,False
+BJO,"Frazier, Moore and Pierce Airlines",Saudi Arabia,True
+GWA,Brown Group Airlines,South Georgia and the South Sandwich Islands,False
+WNH,Mendoza LLC Airlines,Solomon Islands,False
+OSL,Duncan-Fischer Airlines,Saint Kitts and Nevis,False
+YG,Bowen-Marshall Airlines,Switzerland,True
+YZ,French Ltd Airlines,Kyrgyz Republic,True
+ATT,Green-Bishop Airlines,Switzerland,False
+WPV,Luna LLC Airlines,Uganda,True
+QZM,Carter PLC Airlines,Namibia,True
+MBG,Wilkins-Williams Airlines,Vanuatu,False
+UAC,"Jones, Cruz and Dixon Airlines",Morocco,True
+UNG,Allen Inc Airlines,Singapore,True
+POC,Weber Inc Airlines,Cayman Islands,True
+EJD,Parker-Nelson Airlines,China,False
+DSP,"Lawson, Burke and King Airlines",Venezuela,True
+UCS,Welch Inc Airlines,Argentina,True
+ZB,"Williams, Calderon and Mooney Airlines",Iraq,False
+VML,"Nguyen, Dean and Carter Airlines",Samoa,False
+DCE,Bell and Sons Airlines,Georgia,False
+KNA,Ferrell-Park Airlines,Mozambique,False
+RRJ,Rhodes and Sons Airlines,Cyprus,False
+NDP,"Evans, Bauer and Odonnell Airlines",Pitcairn Islands,True
+WLR,"Washington, Lang and Cervantes Airlines",Tunisia,False
+SMX,Thompson-Nguyen Airlines,India,True
+PAT,"Thompson, Rogers and Rivera Airlines",Vietnam,False
+ZGD,"Moore, Jennings and Jenkins Airlines",Dominica,True
+WKN,Humphrey Group Airlines,Palestinian Territory,False
+AZA,Montgomery Group Airlines,United Arab Emirates,True
+YXN,Jones-Moran Airlines,Cambodia,False
+DFU,Thomas LLC Airlines,Morocco,True
+UC,Doyle-Harvey Airlines,Guam,True
+UDI,Garcia-Bates Airlines,Sudan,False
+EAZ,Warren-Ryan Airlines,Nicaragua,False
+GSX,"Shaffer, Harrington and Harding Airlines",Equatorial Guinea,True
+KBP,Anderson-Tate Airlines,Zambia,False
+ZSM,Ryan PLC Airlines,Guyana,True
+VTT,"Arnold, Benjamin and Wilkinson Airlines",Holy See (Vatican City State),True
+GZ,Gordon-Williams Airlines,Martinique,False
+RTM,Simmons-Johnson Airlines,Andorra,False
+CK,Thompson and Sons Airlines,Turks and Caicos Islands,False
+SDM,Williams Group Airlines,Austria,True
+CA,Diaz-Lewis Airlines,Marshall Islands,False
+VR,Fleming Inc Airlines,Sao Tome and Principe,False
+GIV,Beck LLC Airlines,Oman,False
+GDP,"Rivera, Ramos and Flynn Airlines",Serbia,True
+MIA,"Matthews, Hess and Horn Airlines",Senegal,True
+MAU,Stokes Group Airlines,Antarctica (the territory South of 60 deg S),True
+WAM,Stewart and Sons Airlines,Western Sahara,False
+UBW,Mendoza-Williams Airlines,Mozambique,True
+OU,Blankenship and Sons Airlines,Chad,True
+EY,"Dodson, Travis and Clark Airlines",Chad,False
+IB,"Ritter, Bell and Taylor Airlines",French Polynesia,False
+QAN,"Lucas, Smith and Wilkinson Airlines",Jamaica,True
+OTJ,Lopez-Ward Airlines,Svalbard & Jan Mayen Islands,True
+UQ,"Garcia, Wilson and Johns Airlines",Cape Verde,True
+QJF,Kramer PLC Airlines,Italy,False
