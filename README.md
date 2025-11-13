@@ -58,11 +58,11 @@ graph TD
         src_airlines["source(raw, raw_airlines)"]
     end
 
-    %% --- Layer 1: Staging (Views) ---
-    subgraph "Staging (Views)"
-        stg_flight_sched{{"stg_flight_sched (view)"}}
-        stg_passengers{{"stg_passengers (view)"}}
-        stg_airlines{{"stg_airlines (view)"}}
+    %% --- Layer 1: Staging (Tables) ---
+    subgraph "Staging (Tables)"
+        stg_flight_sched{{"stg_flight_sched (table)"}}
+        stg_passengers{{"stg_passengers (table)"}}
+        stg_airlines{{"stg_airlines (table)"}}
     end
 
     %% --- Layer 2: Marts (Tables) ---
