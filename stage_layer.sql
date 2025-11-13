@@ -1,4 +1,3 @@
-
 CREATE OR REPLACE TABLE `flight_to_2026.stg_airlines` AS (
   SELECT 
     UPPER(TRIM(CAST(Airline_Code AS STRING))) AS airline_code, 
@@ -35,7 +34,7 @@ CREATE OR REPLACE TABLE flight_to_2026.stg_passengers AS (
     FARM_FINGERPRINT(TRIM(CAST(Passenger_ID AS STRING))) AS passenger_id,
     SAFE_CAST(Ticket_Price AS NUMERIC) AS ticket_price,
     Luggage_Weight_KG AS luggage_weight_kg, CURRENT_TIMESTAMP() AS load_timestamp
-  FROM `flight_to_2026.raw_passengers`
+  FROM `strong-harbor-474616-p4.flight_to_2026.raw_passangers`
   WHERE Booking_ID IS NOT NULL
   QUALIFY ROW_NUMBER() OVER(PARTITION BY UPPER(TRIM(CAST(Booking_ID AS STRING))) ORDER BY Flight_ID) = 1
 );
