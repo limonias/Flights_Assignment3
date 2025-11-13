@@ -16,7 +16,7 @@ The project follows standard dbt methodology, separating models into layers:
 ### 1. Sources
 
 Data is ingested from the `raw` schema (presumably `flight_to_2026.raw`):
-* `raw_flight_sched`: Flight schedules, including actual and planned times.
+* `stg_flight_schedule`: Flight schedules, including actual and planned times.
 * `raw_passengers`: Booking information, including `booking_id`, `flight_id`, and ticket price.
 * `raw_airlines`: Airline lookup table.
 
@@ -24,7 +24,7 @@ Data is ingested from the `raw` schema (presumably `flight_to_2026.raw`):
 
 Models in this layer (`models/staging/`) are materialized as **views**. Their primary purpose is minimal cleanup, field renaming, and type casting.
 
-* `stg_flight_sched`: Cleaned data from `raw_flight_sched`.
+* `stg_flight_sched`: Cleaned data from `stg_flight_schedule`.
 * `stg_passengers`: Cleaned data from `raw_passengers`.
 * `stg_airlines`: Cleaned data from `raw_airlines`.
 
@@ -53,7 +53,7 @@ graph TD
 
     %% --- Layer 0: Sources ---
     subgraph "Raw Sources"
-        src_flights["source(raw, raw_flight_sched)"]
+        src_flights["source(raw, stg_flight_schedule)"]
         src_passengers["source(raw, raw_passengers)"]
         src_airlines["source(raw, raw_airlines)"]
     end
