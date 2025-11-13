@@ -6,9 +6,9 @@ CREATE OR REPLACE TABLE `flight_to_2026.stg_airlines` AS (
     CURRENT_TIMESTAMP() AS load_timestamp
   FROM `flight_to_2026.raw_airline`
   WHERE Airline_Code IS NOT NULL
+  AND UPPER(TRIM(Airline_Code)) != 'AIRLINE_CODE'
   QUALIFY ROW_NUMBER() OVER(PARTITION BY UPPER(TRIM(CAST(Airline_Code AS STRING))) ORDER BY Airline_Code) = 1
 );
-
 
 CREATE OR REPLACE TABLE flight_to_2026.stg_flight_schedule AS (
   SELECT 
@@ -38,3 +38,7 @@ CREATE OR REPLACE TABLE flight_to_2026.stg_passengers AS (
   WHERE Booking_ID IS NOT NULL
   QUALIFY ROW_NUMBER() OVER(PARTITION BY UPPER(TRIM(CAST(Booking_ID AS STRING))) ORDER BY Flight_ID) = 1
 );
+
+select * from `flight_to_2026.stg_airlines`;
+select * from `flight_to_2026.stg_flight_schedule`;
+select * from `flight_to_2026.stg_passengers`;
