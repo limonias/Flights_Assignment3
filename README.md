@@ -90,3 +90,13 @@ graph TD
     class dim_flight,dim_airline,fct_bookings table
     class dim_date seed
 ```
+
+## Implementation of SCD Type 2
+
+To enhance our data warehouse, the load process for airline data was upgraded from a simple snapshot table to a full Slowly Changing Dimension (SCD) Type 2 model. This provides a complete history of all changes to the airline records over time.
+
+Previously, data was loaded into a staging table, overwriting old data with each run. The simple CREATE OR REPLACE TABLE command was replaced with a 3-step script that runs in a single transaction:
+
+Create Staging Table
+MERGE (Expire Old Records)
+INSERT (Add New Records)
